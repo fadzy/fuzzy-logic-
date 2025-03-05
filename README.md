@@ -1,4 +1,4 @@
-soft computing mini project 1st year sec semester , Implementing a fuzzy logic controller for a washing machine involves several steps, including defining the fuzzy sets, membership functions, rules, and the inference system. Below is an outline of the process to build the fuzzy logic model from scratch
+soft computing mini project 1st year sec semester , Implementing a fuzzy logic controller for a washing machine involves several steps, including defining the fuzzy sets, membership functions, rules, and the inference system. 
 1. Introduction to Fuzzy Logic
 
     Fuzzy logic is a form of artificial intelligence that mimics human decision-making by dealing with uncertain, imprecise, or approximate information.
